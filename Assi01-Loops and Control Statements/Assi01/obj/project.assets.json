@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git-work\\C#\\Assi01\\Assi01\\Assi01.csproj",
+      "projectUniqueName": "D:\\git-work\\C#\\Assi01-Loops and Control Statements\\Assi01\\Assi01.csproj",
       "projectName": "Assi01",
-      "projectPath": "D:\\git-work\\C#\\Assi01\\Assi01\\Assi01.csproj",
+      "projectPath": "D:\\git-work\\C#\\Assi01-Loops and Control Statements\\Assi01\\Assi01.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\git-work\\C#\\Assi01\\Assi01\\obj\\",
+      "outputPath": "D:\\git-work\\C#\\Assi01-Loops and Control Statements\\Assi01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
