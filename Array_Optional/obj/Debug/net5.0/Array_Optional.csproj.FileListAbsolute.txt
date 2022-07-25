@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.exe
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.deps.json
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.runtimeconfig.json
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.dll
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\ref\Array_Optional.dll
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\bin\Debug\net5.0\Array_Optional.pdb
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.dll
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\ref\Array_Optional.dll
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.pdb
+C:\Users\Dell\source\repos\Array_Optional\Array_Optional\obj\Debug\net5.0\Array_Optional.genruntimeconfig.cache
