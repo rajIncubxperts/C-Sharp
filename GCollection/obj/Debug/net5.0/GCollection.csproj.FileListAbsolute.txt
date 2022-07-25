@@ -1,0 +1,32 @@
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.exe
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.deps.json
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.runtimeconfig.json
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.dll
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\ref\GCollection.dll
+C:\Users\Dell\source\repos\GCollection\GCollection\bin\Debug\net5.0\GCollection.pdb
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.AssemblyInfo.cs
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.dll
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\ref\GCollection.dll
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.pdb
+C:\Users\Dell\source\repos\GCollection\GCollection\obj\Debug\net5.0\GCollection.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.exe
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.deps.json
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.dll
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\ref\GCollection.dll
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\bin\Debug\net5.0\GCollection.pdb
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.dll
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\ref\GCollection.dll
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.pdb
+C:\Users\Dell\Desktop\New folder (2)\GCollection\GCollection\obj\Debug\net5.0\GCollection.genruntimeconfig.cache

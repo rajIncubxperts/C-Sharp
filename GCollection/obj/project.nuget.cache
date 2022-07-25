@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOlmsJ67MS0DgPArneJssCIoUu7KIe85b8U+0UYoE5+obe7t9wbTW9cich14kBrW6ZOhTxqhEbuGrJS3jsEblw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\New folder (2)\\GCollection\\GCollection\\GCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
